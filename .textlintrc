@@ -3,6 +3,7 @@
   "rules": {
     "preset-ja-spacing": true,
     "preset-ja-technical-writing": true,
+    "no-dropping-the-ra": true,
     "spellcheck-tech-word": true
   }
 }
