@@ -4,6 +4,7 @@
     "preset-ja-spacing": true,
     "preset-ja-technical-writing": true,
     "no-dropping-the-ra": true,
-    "spellcheck-tech-word": true
+    "spellcheck-tech-word": true,
+    "ja-no-abusage": true
   }
 }
